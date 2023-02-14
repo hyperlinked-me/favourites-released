@@ -1,0 +1,569 @@
+[
+  {
+    "class": "Book",
+    "title": "The Denial of Death",
+    "subtitle": "Ernest Becker",
+    "hyperlinks": [
+      {
+        "class": "InternetArchiveMedium",
+        "id": "denialofdeathbeckrich"
+      },
+      {
+        "class": "Quote",
+        "id": "3067dfa"
+      },
+      {
+        "class": "Quote",
+        "id": "9b3847c"
+      },
+      {
+        "class": "Quote",
+        "id": "4043e3e"
+      },
+      {
+        "class": "Quote",
+        "id": "03a79f0"
+      }
+    ],
+    "thumbnail": "https://ernestbecker.org/wp-content/uploads/2020/05/becker-1.jpg"
+  },
+  {
+    "class": "Article",
+    "title": "On the Sufferings of the World",
+    "subtitle": "Arthur Schopenhauer",
+    "hyperlinks": [
+      {
+        "class": "WebPage",
+        "id": "https://www.atlasofplaces.com/essays/on-the-sufferings-of-the-world/"
+      }
+    ]
+  },
+  {
+    "class": "Music",
+    "title": "海を見ていた午後",
+    "subtitle": "荒井由実",
+    "hyperlinks": [
+      {
+        "class": "YouTubeMusic",
+        "id": "BrGOaVqgUQU"
+      }
+    ],
+    "thumbnail": "https://i.scdn.co/image/ab67616d00001e02bcaefc2f6f8c2e40220abfbf"
+  },
+  {
+    "class": "Video",
+    "title": "Harder Drive: Hard drives we didn't want or need",
+    "subtitle": "Tom Murphy",
+    "hyperlinks": [
+      {
+        "class": "YouTubeVideo",
+        "id": "JcJSW7Rprio"
+      }
+    ]
+  },
+  {
+    "class": "Article",
+    "title": "Advice to a Young Programmer",
+    "subtitle": "Chris Crawford",
+    "hyperlinks": [
+      {
+        "class": "WebPage",
+        "id": "https://www.erasmatazz.com/library/the-journal-of-computer/jcgd-volume-9/advice-to-a-young-programme.html"
+      }
+    ]
+  },
+  {
+    "class": "Film",
+    "title": "LOVE LIFE",
+    "subtitle": "木村文乃、深田晃司",
+    "hyperlinks": [
+      {
+        "class": "YouTubeVideo",
+        "id": "7C-TG0BT0aI"
+      }
+    ],
+    "thumbnail": "https://eiga.k-img.com/images/movie/96701/photo/5a6fbb6d849b251f.jpg?1645665877"
+  },
+  {
+    "class": "Music",
+    "title": "Ashes",
+    "subtitle": "Charlie Lim & Miho Fukuhara",
+    "hyperlinks": [
+      {
+        "class": "YouTubeMusic",
+        "id": "N0ZUO8nlszM"
+      }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/KmTRlsnCWwgSEvZAKWtCAgYAqGS6H0dWKieJ13G-nmWV-LbwGjCAFYvi9xzeuhjDSZzPGuwus6jt0WF1=w544-h544-l90-rj"
+  },
+  {
+    "class": "Music",
+    "title": "NEW ERA",
+    "subtitle": "Nulbarich",
+    "hyperlinks": [
+      {
+        "class": "YouTubeMusic",
+        "id": "OAdu462HiI0"
+      }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/PDz6cq46DBqyABauMTeaIhKQRz03G9zt1eefbo3fKAGufu3w3JYyOjgBrdOHLUiw_Hx2Mm9Yi4bWT84=w544-h544-l90-rj"
+  },
+  {
+    "class": "Image",
+    "title": "This is Rudy. Rudy loves me. Ruby is not my cat.",
+    "subtitle": "u/whatsinmypocketses",
+    "hyperlinks": [
+      {
+        "class": "RedditPost",
+        "id": "8cgj3g"
+      }
+    ],
+    "thumbnail": "https://i.redd.it/auf0unuhu3s01.jpg"
+  },
+  {
+    "class": "Music",
+    "title": "瑠璃色の地球",
+    "subtitle": "手嶌葵",
+    "hyperlinks": [
+      {
+        "class": "YouTubeMusic",
+        "id": "ZgysLX7ZQz8"
+      }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/9vq6Ji-JMO9XOBaH5YjXuu-pApL_Ojc1EqnA0mZwKSDphn8BSKkmfdm5uvICC7z1QeCZY5UP4JnxBAOj=w544-h544-l90-rj"
+  },
+  {
+    "class": "Music",
+    "title": "For Now",
+    "subtitle": "Kina Grannis",
+    "hyperlinks": [
+      {
+        "class": "YouTubeMusic",
+        "id": "JcPTwFYcYBU"
+      }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/TGk64Zxvo8bimeD_PHKVnDZ_YNTTKrb5WSkTkyg50mMkvNb5uFeweALYkTf8ne8lPu-JUyVVQkvq8CN2Ng=w544-h544-l90-rj"
+  },
+  {
+    "class": "Music",
+    "title": "Lady (2020)",
+    "subtitle": "大橋トリオ",
+    "hyperlinks": [
+      {
+        "class": "YouTubeMusic",
+        "id": "s857ala8x00"
+      }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/ffvj5ybLn_6C_lcoaQSmfkV3Fr2qMGvLpqpsGyq-vAbZqMYRMy61vIPZBcjx23WGQDUMJiv3cH_A79c=w544-h544-l90-rj"
+  },
+  {
+    "class": "Music",
+    "title": "帰ろう",
+    "subtitle": "藤井風",
+    "hyperlinks": [
+      {
+        "class": "YouTubeMusic",
+        "id": "Zfx2EPhb4ao"
+      }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/R4k8Fj3T1Y-LvlSrMIY6ekpKg5OviQqzaNTq4WoL2QHwBjc6C0CHOMl7R8Kbdyj8atWWkpsYi1HPCbnU=w544-h544-l90-rj"
+  },
+  {
+    "class": "Music",
+    "title": "My Flight for Heaven",
+    "subtitle": "Blake R. Henson",
+    "hyperlinks": [
+      {
+        "class": "YouTubeMusic",
+        "id": "7wkp_56HN2k"
+      }
+    ]
+  },
+  {
+    "class": "Book",
+    "title": "The Body Keeps the Score",
+    "subtitle": "Bessel van der Kolk",
+    "hyperlinks": [
+      {
+        "class": "AmazonBook",
+        "id": "0143127748"
+      }
+    ]
+  },
+  {
+    "class": "Music",
+    "title": "As Dreams Are Made Of",
+    "subtitle": "Bill Douglas",
+    "hyperlinks": [
+      {
+        "class": "YouTubeMusic",
+        "id": "j8mczA9Z5j8"
+      }
+    ]
+  },
+  {
+    "class": "Music",
+    "title": "Loved Again",
+    "subtitle": "Vivien Yap",
+    "hyperlinks": [
+      {
+        "class": "YouTubeMusic",
+        "id": "JNqDExuLUq0"
+      }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/uiku3LdBD_4mUrbk9NRHmb1CKkpyz-aUOeTshNZ5pMI0VdSpRqmNwd_2Mf-VfTaV7FnWqq49VGhqGws=w544-h544-l90-rj"
+  },
+  {
+    "class": "Article",
+    "title": "The Egg",
+    "subtitle": "Andy Weir",
+    "hyperlinks": [
+      {
+        "class": "YouTubeVideo",
+        "id": "h6fcK_fRYaI"
+      }
+    ]
+  },
+  {
+    "class": "Article",
+    "title": "The Man He Killed",
+    "subtitle": "Thomas Hardy",
+    "hyperlinks": [
+      {
+        "class": "WebPage",
+        "id": "https://www.poetryfoundation.org/poems/44329"
+      }
+    ]
+  },
+  {
+    "class": "Film",
+    "title": "サバカン SABAKAN",
+    "subtitle": "金沢知樹",
+    "hyperlinks": [
+      {
+        "class": "YouTubeVideo",
+        "id": "vu6TZR5UBFY"
+      }
+    ],
+    "thumbnail": "https://eiga.k-img.com/images/movie/96302/photo/192d10035d825359.jpg?1651713011"
+  },
+  {
+    "class": "Film",
+    "title": "氷菓",
+    "subtitle": "京都アニメーション",
+    "hyperlinks": [],
+    "thumbnail": "https://www.kyotoanimation.co.jp/img/kotenbu/gallery/keyVisual/1st/1.jpg"
+  },
+  {
+    "class": "Podcast",
+    "title": "ゆる言語ラジオ",
+    "subtitle": "水野太貴＆堀元見",
+    "hyperlinks": [
+      {
+        "class": "SpotifyShow",
+        "id": "3nBZ3AgBAfSYdHbpJflIHZ"
+      }
+    ],
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-GSCHlIlx4EJrYtIDktrxdbRCPUsJq3TavgAXH=s400-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "class": "Place",
+    "title": "一文字屋和輔",
+    "subtitle": "京都府京都市北区紫野今宮町",
+    "hyperlinks": [
+      {
+        "class": "GoogleMapsLocation",
+        "id": "e26W8uifVi6o5pdQ6"
+      }
+    ],
+    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNgcvBcXSKap2XI9Vw_z6_AK9yAdPWTfuMpZfDP=s901-k-no"
+  },
+  {
+    "class": "Film",
+    "title": "Life of Pi",
+    "subtitle": "Ang Lee, Yann Martel",
+    "hyperlinks": [
+      {
+        "class": "YouTubeVideo",
+        "id": "TWE3In-d2zM"
+      }
+    ],
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_.jpg"
+  },
+  {
+    "class": "Music",
+    "title": "database feat.TAKUMA(10-FEET)",
+    "subtitle": "MAN WITH A MISSION",
+    "hyperlinks": [
+      {
+        "class": "YouTubeMusic",
+        "id": "d2Kj7YybM5o"
+      }
+    ]
+  },
+  {
+    "class": "Music",
+    "title": "SWEET MEMORIES",
+    "subtitle": "幾田りら",
+    "hyperlinks": [
+      {
+        "class": "YouTubeMusic",
+        "id": "vdPiAexMyUY"
+      }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/FJS4tNJ8sSSnwn2i-id9PJdHalVs8EO5jKdvLJ-cNO2wZBsUN1sMcRoM1KC4zazp5i1KBRnNI53XtRs=w544-h544-l90-rj"
+  },
+  {
+    "class": "Music",
+    "title": "エイリエンズ",
+    "subtitle": "KIRINJI",
+    "hyperlinks": [
+      {
+        "class": "YouTubeMusic",
+        "id": "UiW93Thic7I"
+      }
+    ]
+  },
+  {
+    "class": "Music",
+    "title": "Arabesque No. 1",
+    "subtitle": "Claude Debussy, Inga Fiolia",
+    "hyperlinks": [
+      {
+        "class": "YouTubeVideo",
+        "id": "KFgaz7snX5Y"
+      }
+    ]
+  },
+  {
+    "class": "Video",
+    "title": "ＤＩＹ素人夫婦が家一軒まるごとセルフビルド！",
+    "subtitle": "エディ＆ロミー",
+    "hyperlinks": [
+      {
+        "class": "YouTubeVideo",
+        "id": "PW28BKozCBY"
+      }
+    ]
+  },
+  {
+    "class": "Video",
+    "title": "Simple off grid Cabin that anyone can build & afford",
+    "subtitle": "Brooke & Dave Whipple",
+    "hyperlinks": [
+      {
+        "class": "YouTubeVideo",
+        "id": "bOOXmfkXpkM"
+      }
+    ]
+  },
+  {
+    "class": "Food",
+    "title": "Bovril",
+    "subtitle": "Meat and yeast extract",
+    "hyperlinks": [
+      {
+        "class": "WebPage",
+        "id": "http://letslookagain.com/2014/11/a-history-of-the-bovril-co/"
+      }
+    ]
+  },
+  {
+    "class": "Food",
+    "title": "三角山五衛門ラーメン",
+    "subtitle": "鶏塩ラーメン",
+    "hyperlinks": [
+      {
+        "class": "GoogleMapsLocation",
+        "id": "6JnAf5HZnhezX1fPA"
+      }
+    ]
+  },
+  {
+    "class": "Quote",
+    "title": "When our fires begin to burn low",
+    "subtitle": "Will Durant",
+    "hyperlinks": [
+      {
+        "class": "Quote",
+        "id": "ca578ab"
+      },
+      {
+        "class": "WebPage",
+        "id": "https://www.google.com/books/edition/Our_Oriental_Heritage/ru4LPyMAxxkC?hl=en&gbpv=1&dq=%22when+our+fires%22&pg=PT592"
+      }
+    ]
+  },
+  {
+    "class": "Food",
+    "title": "梅乃宿",
+    "subtitle": "ゆず酒、みかん酒",
+    "hyperlinks": [
+      {
+        "class": "WebPage",
+        "id": "https://shop.umenoyado.com/Form/Product/ProductDetail.aspx?shop=0&pid=130051"
+      }
+    ],
+    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPHmQ5M8snVt1gMZqQ7R_g-bbyyLLB-6Bo1Ye25=s773-k-no"
+  },
+  {
+    "class": "Article",
+    "title": "Happiness in the Garden of Epicurus",
+    "subtitle": "Ad Bergsma",
+    "hyperlinks": [
+      {
+        "class": "WebPage",
+        "id": "https://link.springer.com/article/10.1007/s10902-006-9036-z"
+      }
+    ]
+  },
+  {
+    "class": "Book",
+    "title": "Lord of the Rings",
+    "subtitle": "J.R.R. Tolkien",
+    "hyperlinks": [
+      {
+        "class": "Quote",
+        "id": "4ebe47a"
+      },
+      {
+        "class": "Quote",
+        "id": "fe3b8a9"
+      }
+    ]
+  },
+  {
+    "class": "Video",
+    "title": "Life is easy. Why do we make it so hard?",
+    "subtitle": "Jon Jandai",
+    "hyperlinks": [
+      {
+        "class": "YouTubeVideo",
+        "id": "21j_OCNLuYg"
+      }
+    ]
+  },
+  {
+    "class": "Software",
+    "title": "Seafoam Pastel",
+    "subtitle": "Colour scheme",
+    "hyperlinks": [
+      {
+        "class": "GitHubRepository",
+        "id": "lysyi3m/macos-terminal-themes"
+      }
+    ]
+  },
+  {
+    "class": "Food",
+    "title": "揖保乃糸",
+    "subtitle": "そうめん",
+    "hyperlinks": [
+      {
+        "class": "GoogleSearch",
+        "id": "揖保乃糸"
+      }
+    ]
+  },
+  {
+    "class": "Video",
+    "title": "How cooking is a way to love yourself and others",
+    "subtitle": "Tanja Grandits",
+    "hyperlinks": [
+      {
+        "class": "YouTubeVideo",
+        "id": "bTvKSYgcw1k"
+      },
+      {
+        "class": "Quote",
+        "id": "93bccdf"
+      },
+      {
+        "class": "Quote",
+        "id": "f70a7df"
+      }
+    ]
+  },
+  {
+    "class": "Quote",
+    "title": "In the space of hard choices",
+    "subtitle": "Ruth Chang",
+    "hyperlinks": [
+      {
+        "class": "Quote",
+        "id": "5f2d238"
+      },
+      {
+        "class": "YouTubeVideo",
+        "id": "8GQZuzIdeQQ"
+      }
+    ]
+  },
+  {
+    "class": "Film",
+    "title": "The Before trilogy",
+    "subtitle": "Richard Linklater, Ethan Hawke, Julie Delpy",
+    "hyperlinks": [
+      {
+        "class": "Quote",
+        "id": "cc6ea0f"
+      },
+      {
+        "class": "YouTubeVideo",
+        "id": "QV1tiEDvkkw"
+      }
+    ],
+    "thumbnail": "https://s3.amazonaws.com/criterion-production/product_images/1771-d7f77a156a0263e965d0f6783ee1e182/f6rUjvmvonLQE9018f0vXA5elbqAoI_original.jpg"
+  },
+  {
+    "class": "Food",
+    "title": "ていね鯉寿し",
+    "subtitle": "北海道札幌市手稲区金山",
+    "hyperlinks": [
+      {
+        "class": "GoogleMapsLocation",
+        "id": "mR6yA8bmhg8dAPnx5"
+      }
+    ]
+  },
+  {
+    "class": "Quote",
+    "title": "Heroism and wabi-sabi",
+    "subtitle": "ChatGPT, Dall-E, Joel Ling",
+    "hyperlinks": [
+      {
+        "class": "Quote",
+        "id": "17309b4"
+      },
+      {
+        "class": "DallEArt",
+        "id": "Fk63dg3harj7xIUjkKG67dFu"
+      }
+    ],
+    "thumbnail": "https://openai-labs-public-images-prod.azureedge.net/user-yOei13wniRuQklBcDxJSSOUs/generations/generation-Fk63dg3harj7xIUjkKG67dFu/image.webp"
+  },
+  {
+    "class": "Book",
+    "title": "わら一本の革命",
+    "subtitle": "福岡正信",
+    "hyperlinks": [
+      {
+        "class": "AmazonJPBook",
+        "id": "4393741412"
+      }
+    ],
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Masanobu-Fukuoka.jpg"
+  },
+  {
+    "class": "Idea",
+    "title": "Topophilic well-being",
+    "subtitle": "Place as a factor of human happiness",
+    "hyperlinks": [
+      {
+        "class": "WebPage",
+        "id": "https://www.theatlantic.com/family/archive/2021/01/what-moving-house-can-do-your-happiness/617667/"
+      }
+    ],
+    "thumbnail": "https://cdn.theatlantic.com/thumbor/Yb-OENAKcDHm0f5z4dIwRBxXkCE=/0x0:3000x1688/960x540/media/img/mt/2021/01/HowToBuildALife21/original.jpg"
+  }
+]
